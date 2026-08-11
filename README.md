@@ -172,4 +172,4 @@ PostgreSQL-backed result tracking.
 
 ## Contact
 
-📧 [johnamn97@gmail.com](mailto:johnamn97@gmail.com) · 💼 [linkedin.com/in/ejohnatanml](https://www.linkedin.com/in/ejohnatanml) · 🖥️ [github.com/Johnamon97](https://github.com/Johnamon97)
+[johnamn97@gmail.com](mailto:johnamn97@gmail.com) · [linkedin.com/in/ejohnatanml](https://www.linkedin.com/in/ejohnatanml) · [github.com/Johnamon97](https://github.com/Johnamon97)
